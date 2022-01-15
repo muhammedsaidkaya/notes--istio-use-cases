@@ -41,3 +41,6 @@ Canary vs Blue-Green
 https://medium.com/devopsturkiye/blue-green-canary-release-f37cc4cbe797
 Mutual TLS Nedir?
 https://emirozbirdeveloper.medium.com/mutual-tls-nedir-b600bc3091a8
+
+Bottleneck Problem Nedir? Proxy Nedir? Service Mesh Nasıl Çalışır?
+https://medium.com/mehmetcemyucel/mikroservisler-service-mesh-nedir-4db051467a72
